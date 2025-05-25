@@ -57,6 +57,7 @@ Whether you're a policymaker, a data enthusiast, or a curious mind, this project
 ## 🗂️ Project Files
 
 - `crimebystatecombinedwithunemployment.csv` – Dataset used in the analysis  
+  - **Source**: [Crime Rate and Unemployment Rate by State](https://www.kaggle.com/datasets/lydiavasil/crime-rate-and-unemployment-rate-by-state)  
 - `Unemployment_Crime_Cleaned_edited_(1).ipynb` – Full notebook containing data preprocessing and analysis  
 - `Academic Research Poster.jpg` – Final visual poster presented  
 - `Unemployment Crime Report` – Final report document  
