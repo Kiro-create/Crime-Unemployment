@@ -65,6 +65,13 @@ Whether you're a policymaker, a data enthusiast, or a curious mind, this project
 
 ---
 
+## Setup Instructions
+To run the notebook, ensure you have:
+- Python 3.8+
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `statsmodels`, `scikit-learn`
+
+---
+
 ## 📌 Notes
 
 - All data used is publicly available and compiled for educational and research purposes only.  
