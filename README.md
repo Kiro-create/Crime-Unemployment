@@ -1,6 +1,12 @@
-# Unemployment and Crime Rate: An Analytical Perspective
+# 🔍 Unemployment and Crime Rate: An Analytical Perspective
 
-This project explores the relationship between unemployment rates and crime across U.S. states. Using statistical analysis, hypothesis testing, and real-world datasets, we examine whether economic instability correlates with increases in violent and property crimes. The findings aim to inform public policy and contribute to the discourse on social justice and economic resilience.
+> *"When jobs disappear, stability trembles. But does crime always follow?"*
+
+Welcome to our data-driven investigation into one of society’s most pressing questions: **Does unemployment drive crime?**
+
+In this project, we dive deep into U.S. state-level data spanning decades to examine whether economic hardship—measured through unemployment rates—can predict fluctuations in both violent and property crimes. Combining statistical rigor with storytelling through data, we present our findings in a comprehensive report, an interactive notebook, a detailed academic poster, and a live presentation.
+
+Whether you're a policymaker, a data enthusiast, or a curious mind, this project offers insights into how economic and social factors intertwine—and how data can help us untangle them.
 
 ---
 
@@ -8,10 +14,10 @@ This project explores the relationship between unemployment rates and crime acro
 
 ### 📄 **Report**
 
-- **Youssef Waleed** – Hypothesis Testing
-- **Kirollos Rafaat** – Bias Identification, Analysis
-- **Ali Tamer** – Survey Questions / Collected Data / Dataset Description
-- **Omar Mohamed** – Introduction, Research Questions, Population, Sampling Method, Conclusion, and Remaining Sections
+- **Youssef Waleed** – Hypothesis Testing  
+- **Kirollos Rafaat** – Bias Identification, Analysis  
+- **Ali Tamer** – Survey Questions / Collected Data / Dataset Description  
+- **Omar Mohamed** – Introduction, Research Questions, Population, Sampling Method, Conclusion, and Remaining Sections  
 
 ---
 
@@ -25,7 +31,7 @@ This project explores the relationship between unemployment rates and crime acro
   - Handled confounding variables: *Poverty Rate*
 
 - **Ali Tamer**
-  - Implemented and refined rest of the whole code
+  - Implemented and refined remaining code
 
 ---
 
@@ -50,16 +56,16 @@ This project explores the relationship between unemployment rates and crime acro
 
 ## 🗂️ Project Files
 
-- `crimebystatecombinedwithunemployment.csv` – Dataset used in the analysis
-- `Unemployment_Crime_Cleaned_edited_(1).ipynb` – Full notebook containing data preprocessing and analysis
-- `Academic Research Poster.jpg` – Final visual poster presented
-- `Unemployment Crime Report` – Final report document
+- `crimebystatecombinedwithunemployment.csv` – Dataset used in the analysis  
+- `Unemployment_Crime_Cleaned_edited_(1).ipynb` – Full notebook containing data preprocessing and analysis  
+- `Academic Research Poster.jpg` – Final visual poster presented  
+- `Unemployment Crime Report` – Final report document  
 
 ---
 
 ## 📌 Notes
 
-- All data used is publicly available and compiled for educational and research purposes only.
+- All data used is publicly available and compiled for educational and research purposes only.  
 - This project was developed as part of a collaborative academic effort.
 
 ---
@@ -67,4 +73,3 @@ This project explores the relationship between unemployment rates and crime acro
 ## 📝 License
 
 This project is for academic and research use. Attribution is required if reused or referenced.
-
