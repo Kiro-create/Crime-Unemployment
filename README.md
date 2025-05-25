@@ -25,7 +25,7 @@ This project explores the relationship between unemployment rates and crime acro
   - Handled confounding variables: *Poverty Rate*
 
 - **Ali Tamer**
-  - Implemented and refined remaining code
+  - Implemented and refined rest of the whole code
 
 ---
 
