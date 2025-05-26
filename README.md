@@ -31,7 +31,7 @@ Whether you're a policymaker, a data enthusiast, or a curious mind, this project
   - Handled confounding variables: *Poverty Rate*
 
 - **Ali Tamer**
-  - Implemented and refined remaining code
+  - Implemented and refined the whole rest of the code
 
 ---
 
